@@ -1,1 +1,1 @@
-# Yande-Practicum-Real-Estate
+# Yandex-Practicum-Real-Estate
